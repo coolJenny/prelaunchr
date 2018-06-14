@@ -258,7 +258,7 @@ DEPENDENCIES
   rails_serve_static_assets
   rspec-mocks
   rspec-rails
-  sass-rails (~> 5.0.7)
+  sass-rails
   test-unit (~> 3.0)
   uglifier
   unicorn
